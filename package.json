@@ -1,0 +1,15 @@
+{
+  "name": "simple-date-utilz",
+  "version": "1.0.0",
+  "description": "Simple date utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rizal Hidayat",
+  "license": "ISC",
+  "dependencies": {
+    "simple-string-utilities": "^1.1.1"
+  }
+}
