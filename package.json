@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "NPM package simple date utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Manusia Maunasi",
+  "license": "ISC",
+  "dependencies": {
+    "simple-string-utilities": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manusiax/simple-date-utilz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manusiax/simple-date-utilz/issues"
+  },
+  "homepage": "https://github.com/manusiax/simple-date-utilz#readme"
+}
